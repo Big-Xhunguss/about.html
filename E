@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+<body> 
+
+    <title>This is the 2nd page</title>
+
+<a>
+<a href="dude.html">Next page</a>
+
+</body>
+
+<audio controls autoplay src="trip-by-scandinavianz.mp3"> 
+
+
+
+</audio>
+
+
+<video controls autoplay loop style="width:2500px" src="3820239677-preview.mp4" width="250"></video>
+
+
+<div class="backgrond-text">
+<h1>Yaba Daba Doo</h1>
+<p>This text appears behind the video.</p>
+</div>
+
+<caption>YABA DABA DOOOOO</caption>
+
+
+
+
+
+</html>
